@@ -1,0 +1,14 @@
+/target/
+
+*.class
+*.war
+*.zip
+*.rar
+*.tar.gz
+*.class
+
+/.settings/
+.project
+.classpath
+.settings
+.metadata
